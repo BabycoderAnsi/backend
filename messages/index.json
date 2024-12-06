@@ -1,0 +1,7 @@
+{
+  "NAME_LENGTH_ERROR": "Name must have atleast 2 characters",
+  "USERNAME_LENGTH_ERROR": "Username must have atleast 3 characters",
+  "EMAIL_LENGTH_ERROR": "",
+  "PASSWORD_LENGTH_ERROR": "",
+  "VALIDATION_ERROR": ""
+}
